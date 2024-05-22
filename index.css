@@ -12,3 +12,17 @@
 .img{
     width: 600px;
 }
+
+ul{
+   text-align: center;
+   display: inline-flexbox;
+}
+.ul{
+    width: 400px;
+    text-align: center;
+    margin-left: 518px;
+
+}
+li{
+    display: inline-flexbox;
+}
