@@ -1,0 +1,14 @@
+.title{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.page{
+    text-align: center;
+    flex-wrap: wrap;
+    background-color: lightblue;
+
+}
+
+.img{
+    width: 600px;
+}
